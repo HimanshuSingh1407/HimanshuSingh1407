@@ -27,11 +27,11 @@
 <h3 align="left">Support:</h3>
 <br><br>
 
-<p>&nbsp;<img align="center" width="50%px" height="180em"
+<p align="center">&nbsp;<img align="center" width="50%px" height="180em"
  src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusingh1407&show_icons=true&locale=en&layout=compact" alt="himanshusingh1407" /></p>
 
-<p>&nbsp;<img align="center" width="50%px" height="180em"
+<p align="center">&nbsp;<img align="center" width="50%px" height="180em"
  src="https://github-readme-stats.vercel.app/api?username=himanshusingh1407&show_icons=true&locale=en" alt="himanshusingh1407" /></p>
 
-<p><img align="center" width="50%px" height="180em"
+<p align="center"><img align="center" width="50%px" height="180em"
  src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusingh1407&" alt="himanshusingh1407" /></p>
