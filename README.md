@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development @Masai_School**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HimanshuSingh1407/HimanshuSingh1407.github.io](https://github.com/HimanshuSingh1407/HimanshuSingh1407.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/HimanshuSingh1407](https://github.com/HimanshuSingh1407)
 
 - 📫 How to reach me **singh.himanshu1407@gmail.com**
 
