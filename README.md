@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusingh1407&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusingh1407" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimanshuSingh1407&label=Profile%20views&color=0e75b6&style=flat" alt="HimanshuSingh1407" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshusingh1407" alt="himanshusingh1407" /></a> </p>
 
@@ -12,6 +12,7 @@
 - 📫 How to reach me **singh.himanshu1407@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DcdtKsFb83KqnDHZahgMNrcsG5EaNzhA/view?usp=sharing](https://drive.google.com/file/d/1DcdtKsFb83KqnDHZahgMNrcsG5EaNzhA/view?usp=sharing)
+- Portpholio [https://himanshusingh1407.github.io/](https://himanshusingh1407.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
