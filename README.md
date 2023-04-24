@@ -16,7 +16,7 @@ Cancel changes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/himanshusingh1407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@himanshusingh1407" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/himanshusingh1407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@himanshusingh1407" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/himanshu-singh-8aba59146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-singh-8aba59146/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/singh.himanshu1407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="singh.himanshu1407" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/singh_himanshu15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@singh_himanshu15" height="30" width="40" /></a>
